@@ -1,4 +1,4 @@
-# rersume-screening
+# Resume-Screening
 
 •	A typical job posting on the Internet receives a massive number of applications within a short window of time.
 •	Manually filtering of resumes time consuming and incurs huge costs.
